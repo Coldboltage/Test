@@ -1,6 +1,6 @@
 # 🚀 HEO Test
 
-Welcome to HEO Test. This project is a technical assessment that demonstrates essential TypeScript features along with Jest testing for a vehicle registration management system. It utilizes both function-based and class-based approaches to address core registration functionalities.
+This should give you the basic run down of how to install and what to expect of this repo.
 
 ## 📁 Directory Structure
 
@@ -15,7 +15,6 @@ Welcome to HEO Test. This project is a technical assessment that demonstrates es
             └── reg-check/
                 ├── reg-check.types.ts
                 └── reg-checker.ts
-
 
 ## 📜 Files Overview
 
@@ -56,4 +55,4 @@ Available `npm` commands:
 \- The **VehicleMap** class offers similar functionality with additional methods for counting, updating, and adding new registrations 📊  
 \- The `features.spec.ts` file demonstrates usage and verifies that all functionalities work as expected ✅
 
-Thank you for reviewing this assessment. We appreciate your attention to detail and look forward to your feedback. 👍
+Thank you for reviewing this assessment.
